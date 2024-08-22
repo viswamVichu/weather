@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cont{
+    background-image: url("https://manybackgrounds.com/images/hd/cloudy-weather-with-palm-tree-c4pzuybo1zlqcydt.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.images{
+    background-image: url("https://c8.alamy.com/comp/CYMBCA/vector-background-of-day-weather-sun-and-star-cloud-rain-and-snow-CYMBCA.jpg");
+    height: 400px;
+    width: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+};
